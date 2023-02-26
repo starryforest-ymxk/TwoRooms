@@ -1,0 +1,4 @@
+repository "TwoRooms@wechat_os_qy00jl1ziscun9bd0x6oror6s@cloud.cn"
+  path "/"
+    smartbranch "/main" 
+     

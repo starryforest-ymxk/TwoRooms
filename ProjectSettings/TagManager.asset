@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Teleport
+  - Item
+  - ItemBar
+  - SmallGame
+  - Net
+  - MainCanvas
+  - Interactive
+  - Holder
+  - UIItem
+  - Permanent
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - slot
+  - character
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 2293124349
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 1479508711
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 2277155029
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 1058197317
+    locked: 0
